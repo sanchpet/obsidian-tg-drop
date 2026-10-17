@@ -1,0 +1,10 @@
+{
+  "id": "tg-drop",
+  "name": "Telegram Drop",
+  "version": "0.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Send the current note to a Telegram chat as a file in one action.",
+  "author": "sanchpet",
+  "authorUrl": "https://github.com/sanchpet",
+  "isDesktopOnly": false
+}
