@@ -1,6 +1,6 @@
 {
   "name": "obsidian-tg-drop",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "description": "Obsidian plugin: send the current note to a Telegram chat as a file",
   "license": "MIT",
