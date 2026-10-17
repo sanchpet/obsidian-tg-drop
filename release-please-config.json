@@ -4,7 +4,14 @@
     ".": {
       "release-type": "node",
       "include-v-in-tag": false,
-      "extra-files": [{ "type": "json", "path": "manifest.json", "jsonpath": "$.version" }]
+      "extra-files": [
+        {
+          "type": "json",
+          "path": "manifest.json",
+          "jsonpath": "$.version"
+        }
+      ],
+      "include-component-in-tag": false
     }
   }
 }
